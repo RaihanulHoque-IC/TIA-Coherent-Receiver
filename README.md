@@ -1,4 +1,5 @@
 # Fully Differential TIA for Coherent Receiver
+Designed a high-speed fully differential TIA for coherent optical receiver. 
 
 ## 1. Circuit Schematic
 ![Shunt Feedback Topology](./SFTIA.png)
