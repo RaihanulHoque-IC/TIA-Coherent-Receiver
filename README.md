@@ -23,5 +23,7 @@ Designed a high-speed fully differential TIA for coherent optical receiver.
 
 ## Post-Layout Simulation Results
 
+<img src="Gain_comparison.png" width="400">
+
 
 
