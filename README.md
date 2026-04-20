@@ -15,8 +15,8 @@ Designed a high-speed fully differential TIA for coherent optical receiver.
 | DC Offset Compensation | 5 mA | 
 
 ## 1. Circuit Schematic
-![Shunt Feedback Topology](./SFTIA.png)
-![Four Quadrant Multiplier VGA](./VGA.png)
-![Emitter Follower](./EF.png)
-![50 Ohm Output Buffer](./Buffer.png)
-![Testebench Setup](./Top_view.png)
+[Shunt Feedback Topology](SFTIA.png)
+[Four Quadrant Multiplier VGA](VGA.png)
+[Emitter Follower](EF.png)
+[Output Buffer](Buffer.png)
+[Testbench Setup](Top_view.png)
