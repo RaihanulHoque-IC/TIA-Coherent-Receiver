@@ -110,6 +110,12 @@ Designed a high-speed fully differential TIA for coherent optical receiver.
 ## 3. Documentation
 * [Full Thesis Report (PDF)](./Thesis_Report.pdf)
 
+## 4. References
+* Säckinger, Eduard. Broadband circuits for optical fiber communication. John Wiley & Sons, 2005.
+* Dziallas, Giannino, Adel Fatemi, Andrea Malignaggi, and Gerhard Kahmen. "A 97-GHz 66-dBΩ SiGe BiCMOS low-noise transimpedance amplifier for optical receivers." IEEE Microwave and Wireless Components Letters 31, no. 12 (2021): 1295-1298.
+* Ahmed, Mostafa G., Tam N. Huynh, Christopher Williams, Yong Wang, Pavan Kumar Hanumolu, and Alexander Rylyakov. "34-GBd linear transimpedance amplifier for 200-Gb/s DP-16-QAM optical coherent receivers." IEEE Journal of solid-state circuits 54, no. 3 (2018): 834-844.
+* Herbel, Thiemo, Mohsin Tarar, Frank Vater, and Dietmar Kissinger. "A 130-GHz bandwidth 61-dBOhm variable-gain differential linear TIA in a 130-nm SiGe: C BiCMOS technology." In 2024 IEEE BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium (BCICTS), pp. 130-133. IEEE, 2024.
+
 
 
 
