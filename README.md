@@ -108,7 +108,7 @@ Designed a high-speed fully differential TIA for coherent optical receiver.
 
 
 ## 3. Documentation
-* [Download Full Thesis Report (PDF)](./.pdf)
+* [Full Thesis Report (PDF)](./Thesis_Report.pdf)
 
 
 
