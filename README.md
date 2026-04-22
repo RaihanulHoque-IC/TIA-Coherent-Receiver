@@ -14,12 +14,13 @@ Designed a high-speed fully differential TIA for coherent optical receiver.
 | Power Dissipation | 300 mW | 
 | DC Offset Compensation | 5 mA | 
 
-## Circuit Schematic
+## Circuit Schematic and Layout
 [Shunt Feedback Topology](SFTIA.png)
 [Four Quadrant Multiplier VGA](VGA.png)
 [Emitter Follower](EF.png)
 [Output Buffer](Buffer.png)
 [Testbench Setup](Top_view.png)
+[Shunt Feedback Topology (Layout)](./Thesis_Figures_png/SFB_layout.png)
 
 ## Post-Layout Simulation Results
 
