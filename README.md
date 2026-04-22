@@ -23,40 +23,30 @@ Designed a high-speed fully differential TIA for coherent optical receiver.
 
 
 ## Layout 
+
 <figure>
   <img src="./Thesis_Figures_png/SFB_layout.png" width="500">
-  <figcaption><b>Fig:</b> </figcaption>
+  <figcaption><b>Fig:Shunt Feedback Toplogy</b> </figcaption>
 </figure>
 
 <figure>
   <img src="./Thesis_Figures_png/VGA Layout.png" width="500">
-  <figcaption><b>Fig:</b> </figcaption>
+  <figcaption><b>Fig:VGA</b> </figcaption>
 </figure>
 
 <figure>
   <img src="./Thesis_Figures_png/EF Layout.png" width="500">
-  <figcaption><b>Fig:</b> </figcaption>
-</figure>
-
-<figure>
-  <img src="./Thesis_Figures_png/SFB_Layout.png" width="500">
-  <figcaption><b>Fig:</b> </figcaption>
+  <figcaption><b>Fig:Emitter Follower</b> </figcaption>
 </figure>
 
 <figure>
   <img src="./Thesis_Figures_png/Overall Layout.png" width="500">
-  <figcaption><b>Fig:</b> </figcaption>
+  <figcaption><b>Fig:Overall </b> </figcaption>
 </figure>
 
 <figure>
   <img src="./Thesis_Figures_png/RFPro.png" width="500">
-  <figcaption><b>Fig:</b> </figcaption>
 </figure>
-
-
-
-
-
 
 
 ## Post-Layout Simulation Results
